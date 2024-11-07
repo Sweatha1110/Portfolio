@@ -1,0 +1,19 @@
+.card-container {
+    display: flex;
+    margin: 5rem;
+    text-decoration: none;
+    /* justify-content: space-between; */
+  }
+  
+  .card {
+    transition: transform 0.3s;
+    margin-right: 10rem;
+    align-items: center;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+
+  
+  
